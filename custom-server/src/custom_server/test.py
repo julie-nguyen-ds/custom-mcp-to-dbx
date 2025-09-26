@@ -1,0 +1,3 @@
+from custom_server.ainews import DEFAULT_AINEWS_RSS_URL, fetch_ainews_rss, format_ainews_story, parse_ainews_rss
+
+print(DEFAULT_AINEWS_RSS_URL)
